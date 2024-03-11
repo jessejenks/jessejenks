@@ -7,5 +7,5 @@
 My name is Jesse Endo Jenks and I am a software engineer at
 <a target="_blank"
     rel="noreferrer"
-    href="https://www.relyance.ai/"
-    title="Relyance AI" >Relyance AI</a>.
+    href="https://www.sisi.org.uk/"
+    title="SiSi" >SiSi</a>.
